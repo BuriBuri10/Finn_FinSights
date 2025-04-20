@@ -7,3 +7,4 @@ python_pptx==1.0.2
 streamlit==1.44.1
 sentence_transformers
 pypdf
+faiss-cpu
