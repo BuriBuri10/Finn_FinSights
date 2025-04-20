@@ -1,0 +1,6 @@
+langchain==0.3.23
+langchain_groq==0.3.2
+matplotlib==3.7.5
+pandas==2.2.3
+python_pptx==1.0.2
+streamlit==1.44.1
